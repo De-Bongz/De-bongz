@@ -1,7 +1,5 @@
 # Hi 👋 I'm Bongani Maluleke
 
-🎓 Computer Science student at the University of the Western Cape  
-
 ## About Me
 I am currently studying Computer Science and learning programming, algorithms, and data structures.
 
